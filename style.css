@@ -1,3 +1,15 @@
+@font-face {
+    font-family: ArchivoBlack;
+    src: url(./ArchivoBlack-Regular.ttf);
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(./Roboto.ttf);
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
