@@ -4,4 +4,4 @@ Im learn Tailewind CSS & My first Tailewind CSS project
 
 **Check It Out My Project :** [Click here](https://sanketp100.github.io/TailwindCSS-Project-1/)
 
-![Capture8](https://github.com/SanketP100/TailwindCSS-Project-1/assets/153346394/ccaad3c5-a094-4841-9641-c5def89f404e)
+![tailwind project](https://github.com/user-attachments/assets/492b1e84-e29f-41b0-9a21-9e63a4d8a10d)
